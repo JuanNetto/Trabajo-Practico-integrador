@@ -1,5 +1,5 @@
 # Trabajo Practico integrador
-Nuestro trabajo es crear una página de venta de automóviles. Nuestro público objetivo va a ser un grupo de personas que no estén muy habituadas a la compra online y por eso vamos a diseñar una página web fácil e intuitiva para que las personas que tengan dudas sobre la compra online puedan adquirir vehículos sin perderse en el proceso.
+Nuestro trabajo es crear una página web de venta de automóviles. Nuestro público objetivo va a ser un grupo de personas que no estén muy habituadas a la compra online y por eso vamos a diseñar una página web fácil e intuitiva para que las personas que tengan dudas sobre la compra online puedan adquirir vehículos sin perderse en el proceso.
 
 ## Integrantes
  * Juan Netto
