@@ -1,2 +1,2 @@
-# Trabajo-Pr-ctico-integrador
+# Trabajo-Practico-integrador
 Trabajo grupo 12
