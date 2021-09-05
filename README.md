@@ -4,7 +4,7 @@ Nuestro trabajo es crear una página web de venta de automóviles. Nuestro públ
 ## Integrantes
  * Juan Netto
  * Angel Antognoli
- *
+ * Alejandro Guerrero
  
 ## Referencias
  * [Car One](https://www.carone.com.ar)
